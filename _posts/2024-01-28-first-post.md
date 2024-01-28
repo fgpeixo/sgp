@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [abap, rap, cds]
 title: "First blog post"
 date: 2024-01-28
 ---
